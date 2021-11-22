@@ -1,2 +1,4 @@
 # Projeto Genius
-Jogo da memória estilo Genius.
+## Seja bem vindo :smile: :clap:
+
+Esser repositório é destinado ao projeto jogo da memória estilo Genius.
