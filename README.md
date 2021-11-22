@@ -1,10 +1,8 @@
 <h2>Seja bem vindo!</h2>
 <h3>Sobre o projeto:</h3>
 <p>
-  Página web que contém uma
-  lista de pokemons, onde os mesmos
-  podem ser filtrados por todos os pokemons
-  ou pokemons do tipo fogo.
+  Página web voltada para um jogo de memorização
+  ao estilo genius.
 </p>
 <img src="ezgif.com-gif-maker (1).gif"/>
 <h3>Tecnologias utilizadas:</h3>
