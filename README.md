@@ -6,7 +6,7 @@
   podem ser filtrados por todos os pokemons
   ou pokemons do tipo fogo.
 </p>
-<img src="ezgif.com-gif-maker.gif"/>
+<img src="ezgif.com-gif-maker (1).gif"/>
 <h3>Tecnologias utilizadas:</h3>
 <ul>
   <li>
