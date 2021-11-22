@@ -27,4 +27,4 @@
   </li>
 </ul>
 <h3>Link do jogo:</h3>
-<a href="https://gamegenius.netlify.app/"></a>
+<a href="https://gamegenius.netlify.app/">Clique aqui!</a>
